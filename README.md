@@ -24,13 +24,13 @@ sudo docker images
 How to push image in dokerhub
 1) create account in docker hub
 2)  Open terminal
-3) docker login 
+3) sudo docker login 
 give credentials
 4) give tag to image
 
-docker tag phpcode usernameofdocker/phpcode
+sudo docker tag phpcode usernameofdocker/phpcode
 
-5) docker push usernameofdocker/phpcode
+5) sudo docker push usernameofdocker/phpcode
 
 
 
