@@ -18,6 +18,7 @@ sudo docker build -t phpcode . -f Dockerfile
 sudo docker images
 
 7) run project
+
  sudo docker run imagename
  
 How to push image in dokerhub
