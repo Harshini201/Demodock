@@ -34,3 +34,16 @@ sudo docker tag phpcode usernameofdocker/phpcode
 
 6) run image means run complete code
  sudo docker run -d --name phpcode -p 80:80 phpcode
+ 
+ 
+ 
+ In Aws to install docker 
+ 
+ sudo yum update -y
+
+sudo yum -y install docker
+
+ sudo yum install git
+ git clone link 
+
+
