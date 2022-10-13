@@ -32,10 +32,5 @@ sudo docker tag phpcode usernameofdocker/phpcode
 
 5) sudo docker push usernameofdocker/phpcode
 
-
-
-
-
-
 6) run image means run complete code
-docker run -d --name phpcode -p 80:80 phpcode
+ sudo docker run -d --name phpcode -p 80:80 phpcode
